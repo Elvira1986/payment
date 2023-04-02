@@ -38,23 +38,23 @@ export const features = [
   {
     id: "feature-1",
     icon: star,
-    title: "Rewards",
+    title: "Point of Sale",
     content:
-      "The best credit cards offer some tantalizing combinations of promotions and prizes",
+      "Set your business up for long-term success with a POS system built to grow with you.",
   },
   {
     id: "feature-2",
     icon: shield,
-    title: "100% Secured",
+    title: "Payments",
     content:
-      "We take proactive steps make sure your information and transactions are secure.",
+      "Accept all the ways customers want to pay. Our payment processing is fast, secure and reliable.",
   },
   {
     id: "feature-3",
     icon: send,
-    title: "Balance Transfer",
+    title: "Payroll",
     content:
-      "A balance transfer credit card can save you a lot of money in interest charges.",
+      "Take payroll and HR tasks off your plate. We’re here to help you manage your most valuable resource with confidence.",
   },
 ];
 
