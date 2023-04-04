@@ -34,7 +34,8 @@ const Business = () => (
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
         Operate seamlessly in-store, online or on the go. You can do business
         wherever your customers are and get the same reliable functionality and
-        support.
+        support. Speed up orders, operations and checkout with user-friendly
+        real-time software, mobile ordering and fast payment processing.
       </p>
 
       <Button styles={`mt-10`} />
