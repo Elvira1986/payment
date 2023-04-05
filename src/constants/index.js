@@ -62,25 +62,25 @@ export const feedback = [
   {
     id: "feedback-1",
     content:
-      "Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.",
-    name: "Herman Jensen",
-    title: "Founder & Leader",
+      "The customer service is amazing! The people are so friendly and helpful when you need help. The software is very easy to use.",
+    name: "Rachel Gallagher",
+    title: "Lulu retail",
     img: people01,
   },
   {
     id: "feedback-2",
     content:
-      "Money makes your life easier. If you're lucky to have it, you're lucky.",
-    name: "Steve Mark",
-    title: "Founder & Leader",
+      "You see everything! There aren't hidden fees or fees that are impossible to figure out and the fees are lower than others.",
+    name: "Chris Martin",
+    title: "Javier's restaurant",
     img: people02,
   },
   {
     id: "feedback-3",
     content:
-      "It is usually people in the money business, finance, and international trade that are really rich.",
-    name: "Kenn Gallagher",
-    title: "Founder & Leader",
+      "This software allowed us to process all kinds of credit cards in a retail setting. It is easy to use, works qyuckly",
+    name: "Kevin Jensen",
+    title: "People coffe shop",
     img: people03,
   },
 ];
