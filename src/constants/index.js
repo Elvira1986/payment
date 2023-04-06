@@ -105,26 +105,26 @@ export const stats = [
 
 export const footerLinks = [
   {
-    title: "Useful Links",
+    title: "POS",
     links: [
       {
-        name: "Content",
+        name: "Retails",
         link: "https://www.hoobank.com/content/",
       },
       {
-        name: "How it Works",
+        name: "Restaurants",
         link: "https://www.hoobank.com/how-it-works/",
       },
       {
-        name: "Create",
+        name: "Mobile Pay",
         link: "https://www.hoobank.com/create/",
       },
       {
-        name: "Explore",
+        name: "Online Payments",
         link: "https://www.hoobank.com/explore/",
       },
       {
-        name: "Terms & Services",
+        name: "Services",
         link: "https://www.hoobank.com/terms-and-services/",
       },
     ],
@@ -141,7 +141,7 @@ export const footerLinks = [
         link: "https://www.hoobank.com/partners/",
       },
       {
-        name: "Suggestions",
+        name: "Developers",
         link: "https://www.hoobank.com/suggestions/",
       },
       {
@@ -158,12 +158,24 @@ export const footerLinks = [
     title: "Partner",
     links: [
       {
-        name: "Our Partner",
-        link: "https://www.hoobank.com/our-partner/",
+        name: "Our Partners",
+        link: "#",
       },
       {
         name: "Become a Partner",
-        link: "https://www.hoobank.com/become-a-partner/",
+        link: "#",
+      },
+      {
+        name: "Customer Support",
+        link: "#",
+      },
+      {
+        name: "Learning Center",
+        link: "#",
+      },
+      {
+        name: "Contsct Sales",
+        link: "#",
       },
     ],
   },
